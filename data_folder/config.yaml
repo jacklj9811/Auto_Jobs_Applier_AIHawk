@@ -10,7 +10,7 @@ experienceLevel:
 
 jobTypes:
   full-time: true
-  contract: false
+  contract: true
   part-time: false
   temporary: true
   internship: false
@@ -25,28 +25,66 @@ date:
 
 positions:
   - Software engineer
+  - Data Scientist
+  - Data Analyst
+  - Senior Data Analyst
+  - Senior Statistician
+  - Statistician
+  - Business Analyst
+  - Data Engineer
+  - Power BI Developer
+  - Python Engineer
+  - Machine Learning Consultant
+  - Data Modeler
+  - Operations Data Analyst
+  - Python Developer
+  - Junior Data Analyst
+  - Machine Learning Engineer
+  - Software Engineer
+  - SQL/SSRS/Power BI Developer
+  - Business System Analyst
+  - Data Test Engineer
+  - Data engineer Python LLM
+  - Cloud Data Engineer
+  - Sr Data Engineer
+  - Big Data Developer
+  - Data Analyst-CA
+  - AI Engineer
+  - Prompt Engineer
+  - Prompt Engineer/AI Engineer
+  - Senior Data Engineer
+  - AI/ML Engineer with Python & Azure
+  - Machine Learning Artificial Intelligence Engineer
+  - AI/ML Developer
+  - Technical Data Analyst
+  - Statistical Programmer
 
 locations:
-  - Germany
+  - CA
+  - California
+  - US
+  - United States
+  - VA
+  - NY
 
-apply_once_at_company: true
+apply_once_at_company: false
 
 distance: 100
 
 company_blacklist:
-  - wayfair
-  - Crossover
+  - NoNoNo
 
 title_blacklist:
-  - word1
-  - word2
+  - GREEN CARD HOLDER ONLY
+  - US Citizen only
+  - US CITIZENS & GREEN CARD HOLDER ONLY
 
 location_blacklist:
-  - Brazil
+  - NoNoNoNoNo
 
 job_applicants_threshold:
   min_applicants: 0
-  max_applicants: 30
+  max_applicants: 60
 
 llm_model_type: openai
 llm_model: 'gpt-4o-mini'
